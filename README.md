@@ -97,7 +97,7 @@ Bienvenido. Este portafolio está diseñado para mostrar el dominio real de sist
 
 ---
 
-## 🧠 100 Herramientas Profesionales en AI/ML – Nivel OpenAI / DeepMind
+## 🧠 100 Herramientas que Utilizo Activamente para Desarrollar Modelos de Machine Learning Reales  
 
 ### 🧠 Frameworks y Librerías de ML/DL
 TensorFlow · PyTorch · JAX · HuggingFace Transformers · Keras · Scikit-learn · ONNX · FastAI · XGBoost · LightGBM · CatBoost · Optuna · Ray · Deepspeed · Megatron-LM
