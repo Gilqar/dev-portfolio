@@ -94,6 +94,40 @@ Bienvenido. Este portafolio está diseñado para mostrar el dominio real de sist
 
 ---
 
+
+---
+
+## 🧠 100 Herramientas Profesionales en AI/ML – Nivel OpenAI / DeepMind
+
+### 🧠 Frameworks y Librerías de ML/DL
+TensorFlow · PyTorch · JAX · HuggingFace Transformers · Keras · Scikit-learn · ONNX · FastAI · XGBoost · LightGBM · CatBoost · Optuna · Ray · Deepspeed · Megatron-LM
+
+### ⚙️ Infraestructura & Aceleradores
+NVIDIA CUDA · TensorRT · cuDNN · TPUs · NVIDIA A100/H100 · MPI · Horovod · Docker · Kubernetes · Triton Inference Server · MLFlow · Weights & Biases · Comet.ml · ClearML · DVC
+
+### 🔬 NLP y Modelos LLM
+HuggingFace Datasets · HuggingFace Tokenizers · SentencePiece · BPE · OpenAI API · Anthropic Claude SDK · LangChain · LlamaIndex · LoRA · QLoRA · Alpaca · Vicuna · Mistral · ChatGLM · DeepLake
+
+### 🧩 Data Engineering & Pipelines
+Apache Kafka · Apache Airflow · Apache Spark · Feast · Pandas · Polars · Dask · Great Expectations · Delta Lake · Parquet · DuckDB · dbt · Petastorm · Modin · Prefect
+
+### 🌐 API, Backend & Infra Web
+FastAPI · Flask · gRPC · GraphQL · PostgreSQL · MongoDB · Redis · MinIO · Celery · RabbitMQ · Gunicorn · NGINX · Cloudflare · Vercel / Netlify / Railway · NATS
+
+### ☁️ Cloud y DevOps
+AWS S3 · AWS SageMaker · Google Vertex AI · Azure ML · Terraform · Ansible · Pulumi · GitHub Actions · CircleCI · Jenkins
+
+### 🔐 Seguridad, Monitoreo y Gobernanza
+Prometheus · Grafana · OpenTelemetry · Sentry · Elastic Stack · Datadog · Snyk · Tailscale · Keycloak · Open Policy Agent (OPA)
+
+### 🧪 Herramientas Auxiliares y de Investigación
+Colab Pro · JupyterLab · VS Code + Copilot · Weights & Biases Reports · Zotero · ResearchRabbit · Arxiv Sanity Preserver
+
+---
+
+📌 Este portafolio representa ingeniería real, no "Hello Worlds". Cada sistema aquí fue creado con una visión: **entender, construir y dominar el stack completo** de la IA moderna y el desarrollo de software profundo.
+
+
 ## 📂 Estructura Profesional del Portafolio
 
 ```bash
